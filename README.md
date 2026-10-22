@@ -118,7 +118,7 @@ Remote mode remains the default.
 ## Requirements
 
 - macOS on Apple Silicon
-- Node.js 26.5.x
+- Node.js 26.12.1
 - Xcode Command Line Tools
 - Git LFS
 - Docker Desktop (optional, only for the local sandbox)
